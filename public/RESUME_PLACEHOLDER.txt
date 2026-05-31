@@ -1,3 +1,0 @@
-Place your resume PDF in this folder as resume.pdf
-
-The Hero section Resume button links to /resume.pdf
