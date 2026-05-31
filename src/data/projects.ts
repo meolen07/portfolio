@@ -24,7 +24,7 @@ export const projects: Project[] = [
     links: [
       {
         label: 'GitHub',
-        href: 'https://github.com/meolen07',
+        href: 'https://github.com/meolen07/learning-agents-playground',
       },
     ],
   },
